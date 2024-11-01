@@ -1,0 +1,6 @@
+dataset/
+# ./Face_Mask_Recognition_using_CNN/__pycache__
+# ./Face_Mask_Recognition_using_Inception/__pycache__
+# ./Face_Mask_Recognition_using_ResNet/__pycache__
+# ./Face_Mask_Recognition_using_VGG/__pycache__
+**/__pycache__/
